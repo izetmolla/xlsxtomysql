@@ -1,0 +1,14 @@
+{
+    "name": "izetmolla/xlsxtomysql",
+    "type": "library",
+    "description": "A simple example for the xlsx library",
+    "homepage": "https://izetmolla.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Izet Molla",
+            "email": "contact@izetmolla.com",
+            "role": "Developer"
+        }
+    ]
+}
